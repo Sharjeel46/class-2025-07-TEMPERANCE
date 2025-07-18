@@ -1,8 +1,15 @@
-project:
-  title: "class-2025-07-TEMPERANCE"
+  project:
+  type: website
   output-dir: docs
+  title: "class-2025-07-TEMPERANCE"
 
-  
+website:
+  title: "class-2025-07-TEMPERANCE"
+  navbar:
+    left:
+      - href: week-5-temperance.qmd
+        text: Week 5 – Temperance
+
 
 
 
